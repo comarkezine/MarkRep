@@ -1,0 +1,32 @@
+<style>
+h2{
+    text-align: left;
+    color: rgb(17, 194, 120);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight:bold;
+}
+table{
+    border:1px solid #373737;
+    border-collapse: collapse;
+    width:70%;
+}
+table{
+    border:1px solid #373737;
+    padding: 5px;
+    text-align:left;
+}
+th{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: azure;
+    border:1px solid #373737;
+    padding: 5px;
+    text-align:left;
+}
+th{
+    background-color: rgb(192,186,240);
+}
+tr: hover{
+    background-color: rgb(246,247,193);
+}
